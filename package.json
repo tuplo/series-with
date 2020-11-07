@@ -5,7 +5,11 @@
   "repository": "git@github.com:tuplo/series-with.git",
   "author": "Rui Costa",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "async",
+    "sequential",
+    "promise"
+  ],
   "files": [
     "dist/**/*.js",
     "dist/index.d.ts"
