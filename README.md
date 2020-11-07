@@ -2,6 +2,9 @@
 
 <p>
   <img src="https://img.shields.io/npm/v/@tuplo/series-with">
+  <a href="https://codecov.io/gh/tuplo/series-with">
+    <img src="https://codecov.io/gh/tuplo/series-with/branch/main/graph/badge.svg?token=82MK1TBX2I"/>
+  </a>
   <img src="https://github.com/tuplo/series-with/workflows/Build/badge.svg">
   <img src="https://david-dm.org/tuplo/series-with.svg">
 </p>
