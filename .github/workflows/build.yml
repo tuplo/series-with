@@ -12,9 +12,6 @@ jobs:
         node-version: [10.x, 12.x, 14.x]
     steps:
       - uses: actions/checkout@master
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14
       - uses: actions/cache@v1
         with:
           path: node_modules
